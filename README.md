@@ -1,3 +1,7 @@
+# advent-of-code-2020
+
+My solutions to 2020's [Advent of Code](https://advent-of-code.com) problems.
+
 | Day | Puzzle | Solution Directory |
 |:-:|:-:|:-:|
 | 1 | [--- Day 1: Report Repair ---](https://adventofcode.com/2020/day/1) | [day1](day1) |
